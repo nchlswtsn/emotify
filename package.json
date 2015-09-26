@@ -1,0 +1,14 @@
+{
+  "name": "emotify",
+  "version": "1.0.0",
+  "description": "This simple app will take one string argument and return it with a smiley :) attached at the end",
+  "main": "emotify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emotify"
+  ],
+  "author": "Charles Watson <charlesnwatson@gmail.com> (https://www.npmjs.com/~watsoncn)",
+  "license": "ISC"
+}
